@@ -1,0 +1,108 @@
+body{
+  margin: 0px;
+}
+p {
+  color: #000;
+  font-family: Verdana;
+}
+h1 {
+  color: #c64b50;
+  font-family: 'Baloo Bhai', cursive;
+  font-size: 40px;
+}
+h3 {
+  color: #c64b50;
+  font-family: 'Baloo Bhai', cursive;
+  font-size: 24px;
+  margin-bottom: 0px;
+}
+nav {
+  background-color: #c64b50;
+  color: #fff;
+  margin: 0px;
+  font-family: 'Baloo Bhai', cursive;
+  font-size: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+nav li {
+  display: inline-block;
+  padding-left: 85px;
+  padding-bottom: 10px;
+}
+nav ul {
+  margin: 0px;
+}
+.banner {
+  width: 100%;
+}
+.home {
+  width: 70%;
+  margin-left: 15%;
+}
+.box {
+  width: 100%;
+}
+.first {
+  padding-left: 19%;
+}
+.first2 {
+  padding-left: 4%;
+}
+.float {
+  float: left;
+}
+.gallery {
+  width: 100%;
+}
+.bottom {
+  padding-bottom: 50px;
+  width: 20%;
+}
+.highlight {
+  width: 100%;
+  height: 400px;
+}
+.left {
+  width: 32%;
+  padding-right: 2%;
+}
+.left2 {
+  width: 32%;
+  padding-left: 2%;
+}
+.right {
+  width: 60%;
+}
+.highpic {
+  width: 50%;
+  padding-top: 4%;
+}
+.above {
+  width: 100%;
+}
+.top {
+  padding-top: 4%;
+  width: 20%;
+  padding-bottom: 1%;
+}
+.under {
+  width: 100%;
+}
+.highlight2 {
+  width: 100%;
+  height: 550px;
+}
+.box2 {
+  width: 60%;
+}
+.spacer {
+  padding-right: 1%;
+}
+.top2 {
+  padding-top: 4%;
+  width: 30%;
+  padding-bottom: 1%;
+}
