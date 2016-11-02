@@ -106,3 +106,30 @@ nav ul {
   width: 30%;
   padding-bottom: 1%;
 }
+#FormArea form{
+  padding: 20px;
+  text-align: center;
+}
+
+#FormArea input {
+  padding: 4px;
+  font-size: 1.5em;
+  font-family: "Arial", sans-serrif;
+}
+
+#FormArea input[type="text"] {
+  color: #4c4c4c;
+}
+#FormArea input[type="submit"] {
+  background-color: #c64b50;
+  color: #fff;
+  border: none;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  height: 50px;
+}
+.searchfor {
+  font-family: Verdana;
+}
